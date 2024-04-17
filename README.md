@@ -39,7 +39,7 @@ math.html
 <head>
 <meta charset='utf-8'>
 <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-<title>Area of Surface</title>
+<title>Surface area of right Cylinder</title>
 <meta name='viewport' content='width=device-width, initial-scale=1'>
 <style type="text/css">
 body {
@@ -73,7 +73,7 @@ h1 {
 <body>
 <div class="edge">
     <div class="box">
-        <h1>Area of Surface</h1>
+        <h1>Surface area of right Cylinder</h1>
         <h3>SHREE LEKHA S (212223110052)</h3>
         <form method="POST">
             {% csrf_token %}
@@ -136,11 +136,19 @@ urlpatterns = [
 ```
 ## SERVER SIDE PROCESSING:
 
-![alt text](<shree/mathapp/templates/mathapp/Screenshot 2024-04-02 114217.png>)
+
+
+
+![alt text](<Screenshot 2024-04-17 130248.png>)
+
+
 
 ## HOMEPAGE:
 
-![alt text](<shree/mathapp/templates/mathapp/Screenshot 2024-04-02 114155.png>)
+
+![alt text](<Screenshot 2024-04-17 130213.png>)
+
+
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
